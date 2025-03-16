@@ -1,0 +1,15 @@
+Copy# Wails build artifacts
+build/bin
+
+node_modules/
+
+frontend/dist/
+
+/vendor/
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
